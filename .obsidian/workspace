@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ec90e66207c82f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "210e0a8310518f8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "okadat.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3de8fb12bb6b30c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd7e68619bef7b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecdea35423e71aba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c73020a2f80b9267",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b64825304bdf8a32",
+    "type": "split",
+    "children": [
+      {
+        "id": "a63240b19fe89f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0eb7e229b2994bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "okadat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "210e0a8310518f8a",
+  "lastOpenFiles": [
+    "okadat.md"
+  ]
+}
