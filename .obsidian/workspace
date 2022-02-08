@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a040e7f19cea00c",
+        "id": "853c34e6acf8e45e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "zk/モニタ.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -19,8 +23,24 @@
     "type": "split",
     "children": [
       {
+        "id": "6e94a930e8154622",
+        "type": "tabs",
+        "dimension": 44.888888888888886,
+        "children": [
+          {
+            "id": "b1fc259847b49fb3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "4dd7e68619bef7b8",
         "type": "tabs",
+        "dimension": 55.111111111111114,
         "children": [
           {
             "id": "ecdea35423e71aba",
@@ -44,6 +64,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1ae4d44cfa944b86",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -65,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zk/モニタ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,22 +103,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "76e7ba2ead58c4d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zk/モニタ.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6a040e7f19cea00c",
+  "active": "853c34e6acf8e45e",
   "lastOpenFiles": [
+    "zk/モニタ.md",
     "daily/2022-02-08.md",
     "template/daily.md",
-    "解像度.md",
-    "knowlage/CS/PC/モニタ.md",
-    "Untitled.md",
-    "CS.md",
-    "okadat.md"
+    "template/zk.md",
+    "2022-W06.md",
+    "zk/202202082228.md",
+    "zk/202202082227.md",
+    "okadat.md",
+    "202202082226.md",
+    "202202082225.md"
   ]
 }
