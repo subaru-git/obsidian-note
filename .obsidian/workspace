@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "210e0a8310518f8a",
+        "id": "6a040e7f19cea00c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "okadat.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okadat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +82,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "210e0a8310518f8a",
+  "active": "6a040e7f19cea00c",
   "lastOpenFiles": [
+    "daily/2022-02-08.md",
+    "template/daily.md",
+    "解像度.md",
+    "knowlage/CS/PC/モニタ.md",
+    "Untitled.md",
+    "CS.md",
     "okadat.md"
   ]
 }
