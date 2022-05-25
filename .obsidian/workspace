@@ -7,8 +7,12 @@
         "id": "853c34e6acf8e45e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "daily/2022-05-25.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2022-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2022-05-25.md"
+              }
             }
           }
         ]
@@ -115,6 +122,7 @@
   },
   "active": "853c34e6acf8e45e",
   "lastOpenFiles": [
+    "daily/2022-05-25.md",
     "template/zk.md",
     "zk/モニタ.md",
     "daily/2022-05-16.md",
@@ -123,7 +131,6 @@
     "2022-W06.md",
     "zk/202202082228.md",
     "zk/202202082227.md",
-    "okadat.md",
-    "202202082226.md"
+    "okadat.md"
   ]
 }
